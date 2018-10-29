@@ -19,7 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
-          <p>我的react2,你呢？？？</p>
+          <p>你好！今天礼拜一</p>
         </header>
       </div>
     );
